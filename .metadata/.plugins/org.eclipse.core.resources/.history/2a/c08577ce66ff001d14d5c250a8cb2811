@@ -1,0 +1,13 @@
+// import java.lang.*; // »ý·«
+public class TPC34 {
+	public static void main(String[] args) {
+		// String 
+		// java.lang.String str = new java.lang.String("APPLE");
+		String str = new String("APPLE");
+		String v = str.toLowerCase();
+				System.out.println(v);
+		
+		
+	}
+
+}

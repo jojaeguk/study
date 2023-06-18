@@ -1,0 +1,10 @@
+import kr.tpc.inflearn;
+
+public class TPC31 {
+	public static void main(String[] args) {
+		inflearn inf = new inflearn();
+		inf.tpc();
+		inf.java();
+	}
+
+}

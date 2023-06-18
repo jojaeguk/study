@@ -1,0 +1,9 @@
+public class TPC18 {
+	public static void main(String[] args) {
+		// 1. Java에서 제공해주는 class들.. API
+		// 문자열(String)
+		String str = new String("APPLE");
+		System.out.println(str.toLowerCase()); // apple
+	}
+
+}

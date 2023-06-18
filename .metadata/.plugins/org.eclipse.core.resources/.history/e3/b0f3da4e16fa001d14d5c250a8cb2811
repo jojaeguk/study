@@ -1,0 +1,16 @@
+import kr.tpc.Animal;
+import kr.tpc.Cat;
+import kr.tpc.Dog;
+
+public class TPC20 {
+
+	public static void main(String[] args) {
+		Dog d = new Dog();
+		d.eat(); // 부모가 eat가 (?로 출력) but 자식클래스에서 오버라이딩하면 자식메서드가 우선임
+		// Animal d = new Dog(); // 자동 형변환  upcasting
+		
+		Cat c = new Cat();
+		c.eat();
+	}
+
+}

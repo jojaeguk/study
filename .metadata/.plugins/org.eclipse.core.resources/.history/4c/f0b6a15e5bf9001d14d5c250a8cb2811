@@ -1,0 +1,15 @@
+import kr.tpc.BookDTO;
+
+public class TPC13 {
+	public static void main(String[] args) {
+		// √• -> class(BookDTO) -> ∞¥√º -> ¿ŒΩ∫≈œΩ∫
+		String title = "Ω∫«¡∏µ";
+		int price = 25000;
+		String company = "¡¶¿Ã∆‡";
+		int page = 890;
+		
+		BookDTO dto; // dto(object : ∞¥√º)
+		System.out.println(dto.company);
+	}
+
+}

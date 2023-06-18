@@ -1,0 +1,10 @@
+import kr.tpc.Dog;
+
+public class TPC21 {
+	public static void main(String[] args) {
+		
+		Dog d = new Dog();
+		d.eat();
+	}
+
+}

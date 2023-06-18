@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;JavaTPC/src/kr.poly&apos;&#x0D;&#x0A;- Original project: &apos;JavaTPC&apos;&#x0D;&#x0A;- Destination element: &apos;JavaTPC/src/kr.poly&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     kr.tpc.Dog.java&#x0D;&#x0A;     kr.tpc.Animal.java&#x0D;&#x0A;     kr.tpc.Cat.java" description="Copy compilation units" destination="/src&lt;kr.poly" element1="/src&lt;kr.tpc{Dog.java" element2="/src&lt;kr.tpc{Animal.java" element3="/src&lt;kr.tpc{Cat.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1685441433870" units="3" version="1.0"/>
+</session>

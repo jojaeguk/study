@@ -1,0 +1,22 @@
+
+public class TPC02 {
+
+	public static void main(String[] args) {
+		// 프로그래밍의 3대 요소 : 변수, 자료형(DataType), 할당(=)
+		// 1+1 = 2 (메모리에서 계산)
+		
+		int a,b,c;
+		// a,b,c 3개의 변수를 int형으로 선언
+		// 이 기억공간에 a,b,c이 만들어짐
+		// 크기는 int는 4byte의 크기를 갖고 만들어짐
+		a = 1;
+		b = 1;
+		// 변수에 데이터를 대입
+		c = a+b;
+		// 자바는 한 문장이 끝날떄 세미콜론을 찎어줘야 함
+		System.out.println(c);
+		
+
+	}
+
+}

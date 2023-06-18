@@ -1,0 +1,6 @@
+package kr.poly;
+public interface RemoCon { // 객체생성 X; RemoCOn r = new RemoCon(); X
+	public void chUp(); // abstract 생략되어 있음.
+	public void chDown();
+	public void internet();
+}

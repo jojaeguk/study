@@ -1,0 +1,11 @@
+import java.io.InputStream;
+
+public class Project01_C {
+	public static void main(String[] args) {
+		String src = "info.json";
+		// IO -> Stream(½ºÆ®¸²)
+		InputStream is = Project01_C.class.getResourceAsStream(src);
+		
+	}
+
+}
